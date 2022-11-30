@@ -1,0 +1,6 @@
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\SP_Bashilov_1\bin\Debug\SP_Bashilov_1.exe.config
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\SP_Bashilov_1\bin\Debug\SP_Bashilov_1.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\SP_Bashilov_1\bin\Debug\SP_Bashilov_1.pdb
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\SP_Bashilov_1\obj\Debug\SP_Bashilov_1.csprojResolveAssemblyReference.cache
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\SP_Bashilov_1\obj\Debug\SP_Bashilov_1.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\SP_Bashilov_1\obj\Debug\SP_Bashilov_1.pdb

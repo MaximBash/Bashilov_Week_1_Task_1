@@ -1,0 +1,5 @@
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\Ex1_Console\bin\Debug\Ex1_Console.exe.config
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\Ex1_Console\bin\Debug\Ex1_Console.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\Ex1_Console\bin\Debug\Ex1_Console.pdb
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\Ex1_Console\obj\Debug\Ex1_Console.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\SP_Bashilov_1\Ex1_Console\obj\Debug\Ex1_Console.pdb
